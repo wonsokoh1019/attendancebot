@@ -1,15 +1,3 @@
-
-
-admin@lwbottest10 / works!23
-
-- 사내 문의 봇 배포
-- 근태 관리 봇 배포
-
-Rich Menu 배포하기
-
-
-Good 
-
 #!/bin/env python
 # -*- coding: utf-8 -*-
 import os
@@ -40,6 +28,3 @@ DB_NAME = "d7dssp46qgen8l"
 DB_USER = "tbdxioxpsrxsnd"
 DB_PORT = "5432"
 DB_PASSWORD = "e6d9a9ee5db91ad04c9c09726d8ca598cfdfd99fd24d19b784679f7c02ea4602"
-
-
- 
